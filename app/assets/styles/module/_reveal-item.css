@@ -4,7 +4,7 @@
   transform: scale(1.15);
 
   &--is-visible {
-    opacity: 1; 
+    opacity: 1;
     transform: scale(1);
   }
 }
